@@ -1,6 +1,6 @@
 # Capstone_1
 
-### Colab Environment - Yolo Setting
+### Colab Environment - detect + mongodb
 
 ```
 !git clone https://github.com/WongKinYiu/yolov7.git
