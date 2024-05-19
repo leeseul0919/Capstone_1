@@ -1,6 +1,6 @@
 # Capstone_1
 
-### Yolo Setting
+### Colab Environment - Yolo Setting
 
 ```
 !git clone https://github.com/WongKinYiu/yolov7.git
