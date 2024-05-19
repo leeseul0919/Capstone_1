@@ -17,8 +17,3 @@
 ```
 !pip install -r requirements.txt
 ```
-
-```
-from google.colab import drive
-drive.mount('/content/drive')
-```
