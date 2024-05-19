@@ -4,6 +4,8 @@ yolo setting
 
 ```
 !git clone https://github.com/WongKinYiu/yolov7.git
+```
+```
 Cloning into 'yolov7'...
 remote: Enumerating objects: 1197, done.
 remote: Counting objects: 100% (6/6), done.
