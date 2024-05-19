@@ -10,7 +10,7 @@
 ```
 
 
-### detection + mongodb + deepsort
+### Colab Environment - detection + mongodb + deepsort
 ```
 !git clone https://github.com/WongKinYiu/yolov7.git
 !pip install pymongo
