@@ -24,7 +24,7 @@ pbar = tqdm(total=frames_count, unit=' frames', dynamic_ncols=True, position=0, 
 i=0
 temp=[]
 
-client = MongoClient("mongodb+srv://OS:MZWl4yS6ylx53ouQ@os.xcm3kqz.mongodb.net/")
+client = MongoClient("mongodb+srv://~")
 db = client.icecream_store_stock
 collection = db.store_stock
 
